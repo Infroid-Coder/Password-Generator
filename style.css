@@ -1,0 +1,44 @@
+body{
+    background: rgb(15, 15, 15);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#gen{
+    background: blue;
+    border: none;
+    width: 170px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: white;
+}
+#gen:hover{
+    background: rgb(0, 68, 255);
+}
+#gen:active{
+    background: rgb(0, 119, 255);
+}
+#psw{
+    width: 220px;
+    height: 22px;
+    border-radius: 10px;
+    outline: none;
+    border: solid 2px rgb(124, 124, 124)4, 124, 124);
+    padding: 8px;
+}
+#bg{
+    background: rgb(175, 175, 175);
+    display: inline-block;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+#align{
+    text-align: center;
+    margin-top: 20px;
+}
+#gened{
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+}
